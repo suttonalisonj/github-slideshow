@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I can't believe it's not butter
+"Is there something wrong with my keyboard?"
 Use the left arrow to go back!
